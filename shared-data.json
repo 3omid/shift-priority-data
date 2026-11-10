@@ -1,7 +1,7 @@
 {
   "format": "shift-priority-shared",
   "version": 1,
-  "updatedAt": 1793832732520,
+  "updatedAt": 1794312631972,
   "shiftServiceTypes": {
     "4@RH": "MOR",
     "3@NMK": "OR",
@@ -29,7 +29,7 @@
     "PRO4@RH": "MOR",
     "5@NMK": "OR",
     "13STF@STF": "OR",
-    "12@NMK": "MOR",
+    "12@NMK": "OR+MOR",
     "PRO10@NMK": "OR",
     "6@NMK": "MOR",
     "19@NMK": "MOR",
